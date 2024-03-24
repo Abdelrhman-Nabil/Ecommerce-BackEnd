@@ -1,0 +1,10 @@
+{
+    "env":{
+        "DB_USER":"boka0505",               
+        "DB_PASSWORD":"boka0505",
+        "DB_NAME":"Ecommerce",
+        "SECRET_KEY":"sk_test_51OGcYDIvRi97ZH55F0y9MtRZOe4cpaDUxBBacE5oFs2piU2G3uyfjvz0gREpcJfFYPclWbeisnEzOFL0kTin6jo600hiB5Scah"
+
+    }
+
+}
