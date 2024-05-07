@@ -65,8 +65,8 @@ router.post('/create-checkout-session', async (req, res) => {
           ],
       line_items,
       mode: 'payment',
-      success_url: `https://ecommerce--an9875.web.app/checkOut-success`,
-      cancel_url: `https://ecommerce--an9875.web.app/checkOut`,
+      success_url: `https://ecommerce-5798an.web.app/checkOut-success`,
+      cancel_url: `https://ecommerce-5798an.web.app/checkOut`,
     });
   
     res.send({url:session.url});
